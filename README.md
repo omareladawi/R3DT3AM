@@ -1,6 +1,5 @@
 # Red Team Operations and Simulated Attack 
 Objective
-
 This project focuses on executing a simulated attack on a network environment using red team methodologies to evaluate and enhance incident response capabilities. Through strategic planning, exploitation, persistence, and reporting, we aim to simulate real-world adversarial tactics and assess security resilience.
 
 # Project Phases
